@@ -1,0 +1,55 @@
+/* Style the table header */
+
+h3 {
+    color: #071e48;
+}
+
+.table thead th {
+    background: hsla(205, 46%, 30%, 1);
+    color: #fff;
+    margin-top: 20px;
+}
+
+
+/* Style alternating rows in the table */
+
+.table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+/* Style the table cells */
+
+.table td,
+.table th {
+    padding: 10px;
+}
+
+
+/* Style the action icons in the last column */
+
+.table td:last-child i {
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+
+/* Style the delete icon */
+
+.table td:last-child .fa-trash {
+    color: red;
+}
+
+
+/* Style the edit icon */
+
+.table td:last-child .fa-edit {
+    color: darkgreen;
+}
+
+
+/* Add spacing between the icons */
+
+.table td:last-child i:not(:last-child) {
+    margin-right: 5px;
+}

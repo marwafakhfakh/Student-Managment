@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: hsla(205, 46%, 30%, 1);
+}
+
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    margin-right: 15px;
+}
+
+.container {
+    margin-top: 20px;
+}

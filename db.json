@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "student": [
+    {
+      "firstname": "admin1",
+      "lastname": "adminn",
+      "email": "admin@gmail.com",
+      "phone": 55565445,
+      "department": "Mecanique",
+      "id": 2
+    },
+    {
+      "firstname": "Takwa",
+      "lastname": "fakhfakh",
+      "email": "takwa.fakhfakh@gmail.com",
+      "phone": 55565442,
+      "department": "electrique",
+      "id": 4
+    },
+    {
+      "firstname": "mouna",
+      "lastname": "chakroun",
+      "email": "mouna.chakroun@gmail.com",
+      "phone": 20246559,
+      "department": "Informatique - edit -",
+      "id": 5
+    },
+    {
+      "firstname": "marwa",
+      "lastname": "fakhfakh",
+      "email": "marwafakhfakh700@gmail.com",
+      "phone": 28496559,
+      "department": "Informatique edit",
+      "id": 12
+    },
+    {
+      "firstname": "admin",
+      "lastname": "adminn",
+      "email": "admin@gmail.com",
+      "phone": 21657902,
+      "department": "Mecanique",
+      "id": 13
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "department": "",
+      "id": 14
+    },
+    {
+      "fullname": "Takwa Fakhfakh",
+      "email": "Takwa@gmail.com",
+      "password": "00000000",
+      "mobile": "23246559",
+      "id": 15
+    },
+    {
+      "fullname": "marwa",
+      "email": "marwafakhfakh700@gmail.com",
+      "password": "123456789",
+      "mobile": "28496559",
+      "id": 16
+    }
+  ],
+  "signupUsers": [
+    {}
+  ]
+}
